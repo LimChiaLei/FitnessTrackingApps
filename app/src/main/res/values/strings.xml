@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">FitnessTrackingApps</string>
+    <!--                      Chia Lei                           -->
+    <!-- welcome -->
+    <string name="WelcomeText1">Welcome to FITFIT apps</string>
+    <string name="WelcomeText2">Plan your workout and start healthy from now.</string>
+
+    <string name="LoginGoogleEmail">Login with Google Email</string>
+    <string name="LoginFb">Login with Facebook</string>
+    <string name="LoginInsta">Login with Instagram</string>
+
+    <!-- sign up -->
+    <string name="SignUp">Sign Up</string>
+
+    <string name="signupText1">Already an user? Login</string>
+
+    <!-- login -->
+    <string name="Login">Login</string>
+
+    <string name="registerText1">Not register yet? Sign Up</string>
+
+    <!-- bottom -->
+    <string name="home">Home</string>
+    <string name="workout">Workout</string>
+    <string name="add_record">Add Record</string>
+    <string name="chart">Chart</string>
+    <string name="profile">Profile</string>
+    <!--                      Chia Lei                           -->
+
+    <!--                      Johnson                           -->
+
+    <!--                      Johnson                           -->
 </resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1083164004748",
+    "firebase_url": "https://fitnesstrackingapp-7d33b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fitnesstrackingapp-7d33b",
+    "storage_bucket": "fitnesstrackingapp-7d33b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083164004748:android:48c4f2d59f8d072b4086a9",
+        "android_client_info": {
+          "package_name": "com.example.fitnesstrackingapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBBVaVqFDapbZ6jO8rgtXEqB_pQ_0KmXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
