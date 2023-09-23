@@ -63,5 +63,8 @@ dependencies {
     // Firebase Analytics
     implementation 'com.google.firebase:firebase-analytics-ktx:21.3.0'
     implementation 'com.google.firebase:firebase-analytics-ktx:VERSION'
+    implementation 'com.google.firebase:firebase-auth:22.1.2' // Replace with the latest version
+    implementation 'com.google.firebase:firebase-firestore:24.8.1' // Replace with the latest version
+
     implementation 'com.android.support:multidex:1.0.3'
 }
